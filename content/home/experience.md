@@ -25,17 +25,15 @@ experience:
   - title: Software Engineer
     company: Impulse (BD) Ltd
     company_url: 'https://www.impulsebdltd.com'
-    company_logo: org-gc
     location: Dhaka, Bangladesh
     date_start: '2018-07-16'
     date_end: '2019-07-15'
     description: Project: Event Management System (Built in ASP.NET)
         
-  - title: Professor of Semiconductor Physics
+  - title: Software Developer
     company: DataSoft Systems Bangladesh Ltd
     company_url: 'http://datasoft-bd.com'
-    company_logo: org-x
-    location: California
+    location: Dhaka, Bangladesh
     date_start: '2016-04-01'
     date_end: '2018-07-15'
     description: Project: Enterprise Resource Planning (ERP) solution (Built in ASP.NET Entity framework; Consists of 26 modules)
