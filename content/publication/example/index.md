@@ -46,7 +46,7 @@ url_source: ""
 url_video: ""
 publication: 18th IEEE International Conference on Computational Intelligence in
   Bioinformatics and Computational Biology
-featured: true
+featured: false
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
