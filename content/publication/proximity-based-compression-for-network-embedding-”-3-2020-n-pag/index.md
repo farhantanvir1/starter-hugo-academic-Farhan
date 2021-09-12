@@ -6,7 +6,7 @@ authors:
   - Muhammad Ifte Khairul Islam
   - Farhan Tanvir
   - Ginger Johnson
-  - Esra Akbas and Mehmet Aktas. “
+  - Esra Akbas and Mehmet Aktas
 publication: Frontiers in Big Data
 abstract: "Network embedding that encodes structural information of graphs into
   a low-dimensional vector space has been proven to be essential for network
