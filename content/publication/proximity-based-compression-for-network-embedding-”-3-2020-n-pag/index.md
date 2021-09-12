@@ -1,5 +1,5 @@
 ---
-title: "Proximity-Based Compression for Network Embedding.” 3 (2020): n. pag."
+title: Proximity-Based Compression for Network Embedding
 publication_types:
   - "0"
 authors:
