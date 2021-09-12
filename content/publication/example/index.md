@@ -1,5 +1,5 @@
 ---
-title: An example conference paper
+title: Predicting Drug-Drug Interactions Using Meta-path Based Similarities
 authors:
   - Farhan Tanvir
   - Muhammad Ifte Khairul Islam and Esra Akbas
@@ -49,9 +49,9 @@ url_video: ""
 publication: 18th IEEE International Conference on Computational Intelligence in
   Bioinformatics and Computational Biology
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
