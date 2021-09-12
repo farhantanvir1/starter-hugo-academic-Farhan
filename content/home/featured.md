@@ -17,4 +17,3 @@ content:
 design:
   view: 3
 ---
-* F. Tanvir, Islam, Muhammad, and Esra Akbas. “Predicting Drug-Drug Interactions Using Meta-path Based Similarities.” Accepted in *IEEE CIBCB*(2021).
