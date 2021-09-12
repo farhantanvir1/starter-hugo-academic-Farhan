@@ -6,12 +6,9 @@ authors:
 author_notes: []
 publication_short: In IEEE CIBCB 2021
 abstract: >-
-  Drug-drug interaction (DDI) indicates the event where a particular drug’s
-  desired course of action is modified
-
-  when taken together with other drugs (s). While it is crucial to identify drug-drug interactions, it is quite impossible to detect all possible DDIs for a new drug during the clinical trial. Therefore, many computational methods are proposed for this task. In this paper, we propose a novel method, HIN-DDI
-
-  for discovering DDIs. We design a heterogeneous information network (HIN) to model relations between these entities. Afterward, we extract the rich semantic relationships among these entities using
+  We design a heterogeneous information network (HIN) to model relations between
+  these entities. Afterward, we extract the rich semantic relationships among
+  these entities using
 
   different meta-path-based topological features. An extensive set of features are fed to different classifiers for DDI prediction.
 tags: []
