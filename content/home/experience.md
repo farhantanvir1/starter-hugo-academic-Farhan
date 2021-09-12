@@ -28,7 +28,7 @@ experience:
     location: Dhaka, Bangladesh
     date_start: '2018-07-16'
     date_end: '2019-07-15'
-    description: Project: Event Management System (Built in ASP.NET)
+    description: 'Project: Event Management System (Built in ASP.NET)'
         
   - title: Software Developer
     company: DataSoft Systems Bangladesh Ltd
@@ -36,7 +36,7 @@ experience:
     location: Dhaka, Bangladesh
     date_start: '2016-04-01'
     date_end: '2018-07-15'
-    description: Project: Enterprise Resource Planning (ERP) solution (Built in ASP.NET Entity framework; Consists of 26 modules)
+    description: 'Project: Enterprise Resource Planning (ERP) solution (Built in ASP.NET Entity framework; Consists of 26 modules)'
 
 design:
   columns: '2'
