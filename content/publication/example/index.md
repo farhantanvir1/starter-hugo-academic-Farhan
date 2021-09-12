@@ -1,79 +1,60 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+title: An example conference paper
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+  - Farhan Tanvir
+  - Muhammad Ifte Khairul Islam and Esra Akbas
+author_notes: []
+publication_short: In IEEE CIBCB 2021
+abstract: |-
+  Drug-drug interaction (DDI) indicates the event
+  where a particular drug’s desired course of action is modified
+  when taken together with other drugs (s). DDIs may hamper,
+  enhance, or reduce the expected effect of either drug or, at the
+  worst possible scenario, cause an adverse side effect. While it is
+  crucial to identify drug-drug interactions, it is quite impossible
+  to detect all possible DDIs for a new drug during the clinical
+  trial. Therefore, many computational methods are proposed for
+  this task. In this paper, we propose a novel method, HIN-DDI
+  for discovering DDIs. This method considers drugs and other
+  biomedical entities like proteins, pathways, and side effects, for
+  DDI prediction. We design a heterogeneous information network
+  (HIN) to model relations between these entities. Afterward, we
+  extract the rich semantic relationships among these entities using
+  different meta-path-based topological features. An extensive set
+  of features are fed to different classifiers for DDI prediction.
+  Moreover, we run extensive experiments to compare and evaluate
+  the effectiveness of HIN-DDI with other methods. Results exhibit
+  that HIN-DDI is quite effective in predicting new drugs as well
+  as existing drugs. Unlike existing works, HIN-DDI can predict
+  new drugs, and more importantly, it can impressively outmatch
+  baseline methods by up to 63%.
 tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+projects: []
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: screen-shot-2021-09-11-at-9.10.47-pm.jpg
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+publication: 18th IEEE International Conference on Computational Intelligence in
+  Bioinformatics and Computational Biology
+featured: true
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
+doi: ""
 ---
 
 {{% callout note %}}
