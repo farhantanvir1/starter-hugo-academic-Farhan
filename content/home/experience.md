@@ -29,12 +29,7 @@ experience:
     location: Dhaka, Bangladesh
     date_start: '2018-07-16'
     date_end: '2019-07-15'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Project: Event Management System (Built in ASP.NET)
         
   - title: Professor of Semiconductor Physics
     company: DataSoft Systems Bangladesh Ltd
@@ -43,7 +38,7 @@ experience:
     location: California
     date_start: '2016-04-01'
     date_end: '2018-07-15'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Project: Enterprise Resource Planning (ERP) solution (Built in ASP.NET Entity framework; Consists of 26 modules)
 
 design:
   columns: '2'
