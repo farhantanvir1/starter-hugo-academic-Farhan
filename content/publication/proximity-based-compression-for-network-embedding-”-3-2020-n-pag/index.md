@@ -7,6 +7,7 @@ authors:
   - Farhan Tanvir
   - Ginger Johnson
   - Esra Akbas and Mehmet Aktas
+doi: 10.3389/fdata.2020.608043
 publication: Frontiers in Big Data
 abstract: "We propose a novel Network Embedding method, NECL, to generate
   embedding more efficiently or effectively. Our goal is to answer the following
