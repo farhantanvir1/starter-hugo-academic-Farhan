@@ -6,7 +6,7 @@ widget: blank
 widget_id: demo
 headless: true
 weight: 15
-title: Academic Template
+title: ""
 subtitle: ""
 active: true
 design:
