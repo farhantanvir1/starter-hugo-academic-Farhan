@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: night
-day_night: false
+theme: 1950s
+day_night: true
 font: ''
 font_size: L
 
