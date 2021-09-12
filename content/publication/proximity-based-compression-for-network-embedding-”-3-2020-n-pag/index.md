@@ -1,7 +1,7 @@
 ---
 title: Proximity-Based Compression for Network Embedding
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Muhammad Ifte Khairul Islam
   - Farhan Tanvir
@@ -33,7 +33,7 @@ abstract: "Network embedding that encodes structural information of graphs into
   accuracy as evaluated on single and multi-label classification tasks with
   large real-world graphs."
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
