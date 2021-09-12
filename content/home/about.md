@@ -1,21 +1,12 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+I am currently a third-year PhD candidate in [Department of Computer Science](https://computerscience.okstate.edu) at [Oklahoma State University](https://go.okstate.edu). I have the fortune to be advised by Prof. [Esra Akbas](https://www.cs.okstate.edu/~eakbas/). Before coming to OSU, I graduated in 2015 from Department of Computer Science and Engineering, Islamic University of Technology, Bangladesh.
+
+My research mainly focus on graph mining, with their applications in Bioinformatics/Computational Biomedicine.
