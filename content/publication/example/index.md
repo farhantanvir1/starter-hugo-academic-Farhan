@@ -47,20 +47,10 @@ url_video: ""
 publication: 18th IEEE International Conference on Computational Intelligence in
   Bioinformatics and Computational Biology
 featured: false
-date: 2013-07-01T00:00:00.000Z
+date: 2021-09-12T02:33:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
