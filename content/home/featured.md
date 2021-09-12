@@ -4,7 +4,6 @@ widget_id: Publications
 headless: true
 weight: 80
 title: Recent Publications
-active: false
 subtitle: ""
 content:
   page_type: publication
