@@ -12,8 +12,8 @@ active: true
 design:
   columns: "1"
   background:
-    gradient_start: DarkGreen
-    gradient_end: ForestGreen
+    gradient_start: rgba(0, 0, 0, 0)
+    gradient_end: rgba(0, 0, 0, 0)
     text_color_light: true
   spacing:
     padding:
