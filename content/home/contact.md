@@ -16,6 +16,6 @@ content:
 design:
   columns: "2"
 ---
-farhan.tanvir [AT] okstate.edu
+Mail: farhan.tanvir \[AT] okstate.edu
 229 North Duncan St Apt 4
 Stillwater 74075, OK, USA
