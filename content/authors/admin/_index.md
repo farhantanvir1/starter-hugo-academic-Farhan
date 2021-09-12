@@ -1,6 +1,6 @@
 ---
 role: PhD Candidate
-avatar_filename: 238987800_10217446901586929_8834006778040465046_n.jpg
+avatar_filename: screen-shot-2021-09-11-at-9.59.58-pm.jpg
 bio: My research interests include Graph Mining, Graph Neural Networks,
   Computational Biomedicine and Bioinformatics.
 interests:
