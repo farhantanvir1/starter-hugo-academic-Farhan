@@ -29,8 +29,8 @@ experience:
     date_start: '2021-05-15'
     date_end: ''
     description: `|2-`
-                'Planned and executed a project on drug drug interaction prediction (Accepted in IEEE CIBCB 2021)
-                Planned and working on a project on modeling polypharmacy side effects'
+                -Planned and executed a project on drug drug interaction prediction (Accepted in IEEE CIBCB 2021)
+                -Planned and working on a project on modeling polypharmacy side effects
     
     
   - title: Graduate Teaching Assistant
