@@ -28,14 +28,6 @@ address:
   postcode: '74075'
   country: United States
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/farhan__tanvir'
 
 # Site header
 
