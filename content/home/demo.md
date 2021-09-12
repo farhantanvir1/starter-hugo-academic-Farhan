@@ -4,9 +4,8 @@ advanced:
   css_class: ""
 widget: blank
 widget_id: demo
-active: false
 headless: true
-weight: 15
+weight: 10
 title: ""
 subtitle: ""
 active: true
