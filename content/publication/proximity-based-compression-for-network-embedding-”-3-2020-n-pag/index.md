@@ -25,13 +25,7 @@ abstract: "Network embedding that encodes structural information of graphs into
   employ the compressed graph for network embedding instead of the original
   large graph to bring down the embedding cost and also to capture the global
   structure of the original graph; third, we refine the embeddings from the
-  compressed graph to the original graph. NECL is a general meta-strategy that
-  improves the efficiency and effectiveness of many state-of-the-art graph
-  embedding algorithms based on node proximity, including DeepWalk, Node2vec,
-  and LINE. Extensive experiments validate the efficiency and effectiveness of
-  our method, which decreases embedding time and improves classification
-  accuracy as evaluated on single and multi-label classification tasks with
-  large real-world graphs."
+  compressed graph to the original graph."
 draft: false
 featured: true
 image:
