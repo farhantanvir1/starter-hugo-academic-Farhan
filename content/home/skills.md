@@ -4,7 +4,7 @@ headless: true
 weight: 120
 title: Skills
 subtitle: null
-active: true
+active: false
 feature:
   - description: C, Python, C++, Java
     icon_pack: fab
