@@ -5,7 +5,7 @@ widget: featurette
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 30
@@ -17,18 +17,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: C, Python, C++, Java
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: Programming languages
+- description: Microsoft SQL Server Management Studio, Postgres
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Database
+- description: Hadoop, Hbase, Apache Spark, PySpark
   icon_pack: fas
-  name: Photography
+  name: Data Analytics tools
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
