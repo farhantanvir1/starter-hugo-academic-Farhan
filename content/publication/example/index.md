@@ -23,7 +23,7 @@ image:
 summary: We design a heterogeneous information network (HIN) to model relations
   between these entities. Afterward, we extract the rich semantic relationships
   among these entities using different meta-path-based topological features. An
-  extensive set of features are fed to different classifiers for DDI prediction.
+  extensive set of features are fed to different classifiers.
 url_dataset: ""
 url_project: ""
 url_source: ""
