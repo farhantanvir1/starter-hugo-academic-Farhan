@@ -5,10 +5,7 @@ authors:
   - Muhammad Ifte Khairul Islam and Esra Akbas
 author_notes: []
 publication_short: In IEEE CIBCB 2021
-abstract: We design a heterogeneous information network (HIN) to model relations
-  between these entities. Afterward, we extract the rich semantic relationships
-  among these entities using different meta-path-based topological features. An
-  extensive set of features are fed to different classifiers for DDI prediction.
+abstract: ""
 tags: []
 projects: []
 slides: ""
