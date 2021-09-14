@@ -20,7 +20,10 @@ image:
   focal_point: ""
   preview_only: false
   filename: screen-shot-2021-09-11-at-9.10.47-pm.jpg
-summary: ""
+summary: We design a heterogeneous information network (HIN) to model relations
+  between these entities. Afterward, we extract the rich semantic relationships
+  among these entities using different meta-path-based topological features. An
+  extensive set of features are fed to different classifiers for DDI prediction.
 url_dataset: ""
 url_project: ""
 url_source: ""
@@ -35,3 +38,6 @@ url_poster: ""
 url_code: ""
 doi: ""
 ---
+Drug-drug interaction (DDI) indicates the event where a particular drug’s desired course of action is modified
+when taken together with other drugs (s). DDIs may hamper, enhance, or reduce the expected effect of either drug or, at the worst possible scenario, cause an adverse side effect. While it is crucial to identify drug-drug interactions, it is quite impossible to detect all possible DDIs for a new drug during the clinical trial. Therefore, many computational methods are proposed for this task. In this paper, we propose a novel method, HIN-DDI
+for discovering DDIs. This method considers drugs and other biomedical entities like proteins, pathways, and side effects, for DDI prediction. We design a heterogeneous information network (HIN) to model relations between these entities. Afterward, we extract the rich semantic relationships among these entities using different meta-path-based topological features. An extensive set of features are fed to different classifiers for DDI prediction. Moreover, we run extensive experiments to compare and evaluate the effectiveness of HIN-DDI with other methods. Results exhibit that HIN-DDI is quite effective in predicting new drugs as well as existing drugs. Unlike existing works, HIN-DDI can predict new drugs, and more importantly, it can impressively outmatch baseline methods by up to 63%.
