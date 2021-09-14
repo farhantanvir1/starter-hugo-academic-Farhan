@@ -30,8 +30,8 @@ organizations:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: Oklahoma State University
-      year: 2024
+      institution: Oklahoma State University (Expected Completion Date - 2024)
+      year: ""
     - course: B.Sc. in Computer Science and Engineering
       institution: Islamic University of Technology
       year: 2015
