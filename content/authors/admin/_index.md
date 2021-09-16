@@ -45,6 +45,9 @@ I am currently a third-year CS PhD candidate in <a target="_blank" href="https:
 
 My research mainly focus on graph mining, with their applications in Bioinformatics/Computational Biomedicine.
 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
 </p>
 
 <h3 id="news">News</h3>
@@ -92,7 +95,5 @@ Started as CS PhD student at Oklahoma State University. Go Pokes!</a>
 </li>
 
 </ul>
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 </p>
