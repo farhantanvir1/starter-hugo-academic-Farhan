@@ -63,7 +63,7 @@ Passed Qualifying Exam (QE) and officially advanced to candidacy.
 
 <li>
 <span style="color:blue">[2021-07-15]</span>
-One Paper Accepted in <a target="_blank" href="https://federation.edu.au/cibcb2021">IEEE CIBCB 2021</a>.
+One Paper Accepted at <a target="_blank" href="https://federation.edu.au/cibcb2021">IEEE CIBCB 2021</a>.
 </li>
 
 <li>
