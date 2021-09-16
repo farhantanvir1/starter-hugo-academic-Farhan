@@ -86,6 +86,11 @@ One journal paper accepted at <a target="_blank" href="https://www.frontiersin.o
 Worked as a part of judge panel for <a target="_blank" href="https://ossef.okstate.edu/2020-ossef-winners.html">Oklahoma State Science and Engineering Fair (OSSEF) 2020</a>.
 </li>
 
+<li>
+<span style="color:blue">\[2019-08-019]</span>
+Started as PhD student at Oklahoma State University</a>.
+</li>
+
 </ul>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
