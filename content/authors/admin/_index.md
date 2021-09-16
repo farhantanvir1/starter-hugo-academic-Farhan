@@ -40,8 +40,6 @@ highlight_name: true
 title: Farhan Tanvir
 email: ""
 ---
-<h2 id="biography">Biography</h2>
-
 <p>
 I am currently a third-year CS PhD candidate in [Department of Computer Science](https://computerscience.okstate.edu/) at [Oklahoma State University](https://go.okstate.edu/). I have the fortune to be advised by Prof. [Esra Akbas](https://www.cs.okstate.edu/~eakbas/). Before coming to OSU, I graduated in 2015 from Department of Computer Science and Engineering, Islamic University of Technology, Bangladesh.
 
@@ -51,6 +49,7 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 
 <h3 id="news">News</h3>
 
+<p>
 <ul>
 <li>
 <span style="color:blue">[2021-09-16]</span>
@@ -80,3 +79,4 @@ Worked as a part of judge panel for <a target="_blank" href="https://ossef.oksta
 </ul>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+</p>
