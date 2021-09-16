@@ -53,7 +53,7 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 <ul>
 <li>
 <span style="color:blue">[2021-09-16]</span>
-Working as sub-reviewer of <a target="_blank" href="https://complexnetworks.org">Complex Networks 2021</a>.
+Sub-reviewer of <a target="_blank" href="https://complexnetworks.org">Complex Networks 2021</a>.
 </li>
 
 <li>
@@ -68,12 +68,12 @@ One Paper Accepted at <a target="_blank" href="https://federation.edu.au/cibcb20
 
 <li>
 <span style="color:blue">[2021-06-01]</span>
-Worked as a co-ordinator for <a target="_blank" href="http://cs.okstate.edu/reu/about.html">REU Site: Big Data Analytics at Oklahoma State University</a>. Also, co-advised a student during the program.
+Co-ordinator for <a target="_blank" href="http://cs.okstate.edu/reu/about.html">REU Site: Big Data Analytics at Oklahoma State University</a>. Also, co-advised a student during the program.
 </li>
 
 <li>
 <span style="color:blue">[2021-04-01]</span>
-Worked as a part of judge panel for <a target="_blank" href="https://ossef.okstate.edu">Oklahoma State Science and Engineering Fair (OSSEF) 2021</a>.
+Part of judge panel under "Sciene and Engineering" Category for <a target="_blank" href="https://ossef.okstate.edu">Oklahoma State Science and Engineering Fair (OSSEF) 2021</a>.
 </li>
 
 <li>
@@ -83,7 +83,7 @@ One journal paper accepted at <a target="_blank" href="https://www.frontiersin.o
 
 <li>
 <span style="color:blue">[2020-04-01]</span>
-Worked as a part of judge panel for <a target="_blank" href="https://ossef.okstate.edu/2020-ossef-winners.html">Oklahoma State Science and Engineering Fair (OSSEF) 2020</a>.
+Part of judge panel under "Sciene and Engineering" Category for <a target="_blank" href="https://ossef.okstate.edu/2020-ossef-winners.html">Oklahoma State Science and Engineering Fair (OSSEF) 2020</a>.
 </li>
 
 <li>
