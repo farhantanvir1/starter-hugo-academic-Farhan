@@ -68,7 +68,7 @@ One Paper Accepted at <a target="_blank" href="https://federation.edu.au/cibcb20
 
 <li>
 <span style="color:blue">[2021-06-01]</span>
-Co-ordinator for <a target="_blank" href="http://cs.okstate.edu/reu/about.html">REU Site: Big Data Analytics at Oklahoma State University</a>. Also, co-advised a student during the program.
+Co-ordinator of <a target="_blank" href="http://cs.okstate.edu/reu/about.html">REU Site: Big Data Analytics at Oklahoma State University</a>. Also, co-advised a student during the program.
 </li>
 
 <li>
