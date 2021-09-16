@@ -40,18 +40,43 @@ highlight_name: true
 title: Farhan Tanvir
 email: ""
 ---
+<h2 id="biography">Biography</h2>
+
+<p>
 I am currently a third-year CS PhD candidate in [Department of Computer Science](https://computerscience.okstate.edu/) at [Oklahoma State University](https://go.okstate.edu/). I have the fortune to be advised by Prof. [Esra Akbas](https://www.cs.okstate.edu/~eakbas/). Before coming to OSU, I graduated in 2015 from Department of Computer Science and Engineering, Islamic University of Technology, Bangladesh.
 
 My research mainly focus on graph mining, with their applications in Bioinformatics/Computational Biomedicine.
+</p>
 
 
+<h3 id="news">News</h3>
 
-### News
+<ul>
+<li>
+<span style="color:blue">[2021-09-16]</span>
+Working as sub-reviewer of <a target="_blank" href="https://complexnetworks.org">Complex Networks 2021</a>.
+</li>
 
-* **\[2021-09-16]** Working as sub-reviewer of **Complex Networks 2021**
-* **\[2021-07-15]** One Paper Accepted in **IEEE CIBCB 2021**
-* **\[2021-06-01]** Worked as a co-ordinator for **REU Site: Big Data Analytics at Oklahoma State University.** Also, co-advised a student during the program
-* **\[2021-04-01]** Worked as a part of judge panel for **Oklahoma State Science and Engineering Fair (OSSEF)** 2021
-* **\[2020-04-01]** Worked as a part of judge panel for **Oklahoma State Science and Engineering Fair (OSSEF)** 2020
+<li>
+<span style="color:blue">[2021-07-15]</span>
+One Paper Accepted in <a target="_blank" href="https://federation.edu.au/cibcb2021">IEEE CIBCB 2021</a>.
+</li>
+
+<li>
+<span style="color:blue">[2021-06-01]</span>
+Worked as a co-ordinator for <a target="_blank" href="http://cs.okstate.edu/reu/about.html">REU Site: Big Data Analytics at Oklahoma State University</a>. Also, co-advised a student during the program.
+</li>
+
+<li>
+<span style="color:blue">[2021-04-01]</span>
+Worked as a part of judge panel for <a target="_blank" href="https://ossef.okstate.edu">Oklahoma State Science and Engineering Fair (OSSEF) 2021</a>.
+</li>
+
+<li>
+<span style="color:blue">[2020-04-01]</span>
+Worked as a part of judge panel for <a target="_blank" href="https://ossef.okstate.edu/2020-ossef-winners.html">Oklahoma State Science and Engineering Fair (OSSEF) 2020</a>.
+</li>
+
+</ul>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
