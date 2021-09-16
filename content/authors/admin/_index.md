@@ -87,7 +87,7 @@ Worked as a part of judge panel for <a target="_blank" href="https://ossef.oksta
 </li>
 
 <li>
-<span style="color:blue">[2019-08-019]</span>
+<span style="color:blue">[2019-08-19]</span>
 Started as PhD student at Oklahoma State University. Go Pokes!</a>.
 </li>
 
