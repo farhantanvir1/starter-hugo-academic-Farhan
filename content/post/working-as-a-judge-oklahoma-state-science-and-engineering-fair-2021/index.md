@@ -1,5 +1,5 @@
 ---
-title: Working as a judge Oklahoma State Science and Engineering Fair 2021
+title: Working as a judge for Oklahoma State Science and Engineering Fair 2021
 date: 2021-04-01T19:59:25.835Z
 draft: false
 featured: false
