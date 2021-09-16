@@ -40,7 +40,7 @@ highlight_name: true
 title: Farhan Tanvir
 email: ""
 ---
-<p style="font-size: 18px">
+<p>
 I am currently a third-year CS PhD candidate in <a target="_blank" href="https://computerscience.okstate.edu/">Department of Computer Science</a> at <a target="_blank" href="https://go.okstate.edu/">Oklahoma State University.</a> I have the fortune to be advised by <a target="_blank" href="https://www.cs.okstate.edu/~eakbas/">Prof. Esra Akbas.</a> Before coming to OSU, I graduated in 2015 from <a target="_blank" href="https://cse.iutoic-dhaka.edu">Department of Computer Science and Engineering</a>, <a target="_blank" https://www.iutoic-dhaka.edu">Islamic University of Technology, Bangladesh.</a>
 
 My research mainly focus on graph mining, with their applications in Bioinformatics/Computational Biomedicine.
@@ -49,30 +49,30 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 
 <h3 id="news">News</h3>
 
-<p style="font-size: 18px">
+<p>
 <ul>
 <li>
-<span style="color:blue">\[2021-09-16]</span>
+<span style="color:blue">\\[2021-09-16]</span>
 Working as sub-reviewer of <a target="_blank" href="https://complexnetworks.org">Complex Networks 2021</a>.
 </li>
 
 <li>
-<span style="color:blue">\[2021-07-15]</span>
+<span style="color:blue">\\[2021-07-15]</span>
 One Paper Accepted in <a target="_blank" href="https://federation.edu.au/cibcb2021">IEEE CIBCB 2021</a>.
 </li>
 
 <li>
-<span style="color:blue">\[2021-06-01]</span>
+<span style="color:blue">\\[2021-06-01]</span>
 Worked as a co-ordinator for <a target="_blank" href="http://cs.okstate.edu/reu/about.html">REU Site: Big Data Analytics at Oklahoma State University</a>. Also, co-advised a student during the program.
 </li>
 
 <li>
-<span style="color:blue">\[2021-04-01]</span>
+<span style="color:blue">\\[2021-04-01]</span>
 Worked as a part of judge panel for <a target="_blank" href="https://ossef.okstate.edu">Oklahoma State Science and Engineering Fair (OSSEF) 2021</a>.
 </li>
 
 <li>
-<span style="color:blue">\[2020-04-01]</span>
+<span style="color:blue">\\[2020-04-01]</span>
 Worked as a part of judge panel for <a target="_blank" href="https://ossef.okstate.edu/2020-ossef-winners.html">Oklahoma State Science and Engineering Fair (OSSEF) 2020</a>.
 </li>
 
