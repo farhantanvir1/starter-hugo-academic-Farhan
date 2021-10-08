@@ -6,6 +6,7 @@ bio: My research interests include Graph Mining, Graph Neural Networks,
 interests:
   - Graph Mining
   - Applied Machine Learning
+  - Graph Neural Network
   - Computational Biomedicine
   - Bioinformatics
 social:
