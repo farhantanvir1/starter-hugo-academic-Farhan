@@ -3,6 +3,7 @@ title: Predicting Drug-Drug Interactions Using Meta-path Based Similarities
 authors:
   - Farhan Tanvir
   - Muhammad Ifte Khairul Islam and Esra Akbas
+doi: 10.1109/CIBCB49929.2021.9562802
 author_notes: []
 publication_short: In IEEE CIBCB 2021
 abstract: ""
