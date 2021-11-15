@@ -57,7 +57,7 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 
 <li>
 <span style="color:blue">[2021-11-14]</span>
-One Paper Accepted at <a target="_blank" href="https://bigdatareu.umbc.edu/reu-symposium/">REU 2019 Symposium at IEEE International Conference on Big Data</a>.
+One Paper Accepted at <a target="_blank" href="https://bigdatareu.umbc.edu/reu-symposium/">REU 2021 Symposium at IEEE International Conference on Big Data</a>.
 </li>
 <li>
 <span style="color:blue">[2021-09-16]</span>
