@@ -18,10 +18,8 @@ image:
   focal_point: ""
   preview_only: false
   filename: screen-shot-2021-09-11-at-9.10.47-pm.jpg
-summary: We design a heterogeneous information network (HIN) to model relations
-  between these entities. Afterward, we extract the rich semantic relationships
-  among these entities using different meta-path-based topological features. An
-  extensive set of features are fed to different classifiers.
+summary: "We design a heterogeneous information network (HIN) to model relations between these entities. Afterward, we extract the rich semantic relationships among these entities using different meta-path-based topological features. An
+ extensive set of features are fed to different classifiers."
 url_dataset: ""
 url_project: ""
 url_source: ""
