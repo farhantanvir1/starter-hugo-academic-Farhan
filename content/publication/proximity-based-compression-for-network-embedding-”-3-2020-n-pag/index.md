@@ -8,7 +8,7 @@ authors:
   - Ginger Johnson
   - Esra Akbas and Mehmet Aktas
 doi: 10.3389/fdata.2020.608043
-publication: Frontiers in Big Data
+publication: "Frontiers in Big Data"
 abstract: ""
 draft: false
 featured: true
