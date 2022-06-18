@@ -56,6 +56,15 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 <ul>
 
 <li>
+<span style="color:blue">[2022-06-17]</span>
+Gave a talk at REU Professional Development Workshop About Graph Representation Learning in Biology and Medicine</a>.
+</li>
+<li>
+<span style="color:blue">[2021-09-16]</span>
+Reviewer of <a target="_blank" href="https://www.kdd.org/kdd2022/cfpUG.html">KDD 2022 Undergraduate Consortium</a>.
+</li>
+
+<li>
 <span style="color:blue">[2021-11-14]</span>
 One Paper Accepted at <a target="_blank" href="https://bigdatareu.umbc.edu/reu-symposium/">REU 2021 Symposium at IEEE International Conference on Big Data</a>.
 </li>
