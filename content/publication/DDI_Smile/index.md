@@ -1,5 +1,5 @@
 ---
-title: Drug-Drug Interaction Prediction: a Purely SMILES Based Approach
+title: "Drug-Drug Interaction Prediction: a Purely SMILES Based Approach"
 authors:
   - Bri Bumgardner
   - Farhan Tanvir
