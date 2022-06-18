@@ -59,9 +59,15 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 <span style="color:blue">[2022-06-17]</span>
 Gave a talk at REU Professional Development Workshop About Graph Representation Learning in Biology and Medicine</a>.
 </li>
+
 <li>
-<span style="color:blue">[2021-09-16]</span>
+<span style="color:blue">[2022-06-16]</span>
 Reviewer of <a target="_blank" href="https://www.kdd.org/kdd2022/cfpUG.html">KDD 2022 Undergraduate Consortium</a>.
+</li>
+
+<li>
+<span style="color:blue">[2022-06-01]</span>
+Co-ordinator of <a target="_blank" href="http://cs.okstate.edu/reu/about.html">REU Site: Big Data Analytics at Oklahoma State University</a>.
 </li>
 
 <li>
