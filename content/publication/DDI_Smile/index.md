@@ -6,7 +6,7 @@ authors:
   - Khaled Mohammed Saifuddin and Esra Akbas
 doi: 10.1109/BigData52589.2021.9671766
 author_notes: []
-publication_short: In IEEE Big Data 2021
+publication_short: "In IEEE Big Data 2021"
 abstract: ""
 tags: []
 projects: []
@@ -24,11 +24,11 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: 2021 IEEE International Conference on Big Data (Big Data)
+publication: "2021 IEEE International Conference on Big Data (Big Data)"
 featured: true
 date: 2021-11-12T02:33:00.000Z
 url_slides: ""
-publishDate: 2021-11-012T00:00:00.000Z
+publishDate: "2021-11-012T00:00:00.000Z"
 url_poster: ""
 url_code: ""
 doi: ""
