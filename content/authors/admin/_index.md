@@ -57,7 +57,7 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 
 <li>
 <span style="color:blue">[2022-06-20]</span>
-Got Accepted into LOGML Summer School 2022. Looking forward to meet my idols, academia and industry professionals, and most importantly, work with a target="_blank" href="https://www.kexinhuang.com">Kexin Huang</a>, a prodigy and my inspiration.
+Got Accepted into LOGML Summer School 2022. Looking forward to meet my idols, academia and industry professionals, and most importantly, work with <a target="_blank" href="https://www.kexinhuang.com">Kexin Huang</a>, a prodigy and my inspiration.
 </li>
 
 <li>
