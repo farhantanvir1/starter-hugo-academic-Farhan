@@ -16,6 +16,7 @@ I am currently a third-year PhD candidate in [Department of Computer Science](h
 My research mainly focus on graph mining, with their applications in Bioinformatics/Computational Biomedicine.
 
 ### News
+* **\[2022-07-02]** Working as sub-reviewer of **Complex Networks 2022
 * **\[2022-06-17]** Gave a talk at **REU Professional Development Workshop** about Graph Representation Learning in Biology and Medicine
 * **\[2022-06-1]** Working as reviewer of **KDD 2022 Undergraduate Consortium**
 * **\[2021-09-16]** Working as sub-reviewer of **Complex Networks 2021**
