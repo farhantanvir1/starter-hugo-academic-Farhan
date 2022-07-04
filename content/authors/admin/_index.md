@@ -56,6 +56,11 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 <ul>
 
 <li>
+<span style="color:blue">[2022-07-02]</span>
+Sub-reviewer of <a target="_blank" href="https://complexnetworks.org">Complex Networks 2022</a>.
+</li>
+
+<li>
 <span style="color:blue">[2022-06-20]</span>
 Got Accepted into <a target="_blank" href="https://www.logml.ai">LOGML Summer School 2022</a>. Looking forward to meet my idols, academia and industry professionals, and most importantly, work with <a target="_blank" href="https://www.kexinhuang.com">Kexin Huang</a>, a prodigy and a big inspiration for me.
 </li>
