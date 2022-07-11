@@ -23,9 +23,9 @@ url_source: ""
 url_video: ""
 publication: "2021 IEEE International Conference on Big Data (Big Data)"
 featured: true
-date: 2021-11-12T02:33:00.000Z
+date: 2022-07-11T02:33:00.000Z
 url_slides: ""
-publishDate: "2021-11-012T00:00:00.000Z"
+publishDate: "2022-07-11T00:00:00.000Z"
 url_poster: ""
 url_code: ""
 doi: ""
