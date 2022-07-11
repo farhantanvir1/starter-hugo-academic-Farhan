@@ -30,7 +30,7 @@ url_slides: ""
 publishDate: "2017-01-01T00:00:00.000Z"
 url_poster: ""
 url_code: ""
-doi: ""
+doi: "10.1109/CIBCB49929.2021.9562802"
 ---
 Drug-drug interaction (DDI) indicates the event where a particular drug’s desired course of action is modified
 when taken together with other drugs (s). DDIs may hamper, enhance, or reduce the expected effect of either drug or, at the worst possible scenario, cause an adverse side effect. While it is crucial to identify drug-drug interactions, it is quite impossible to detect all possible DDIs for a new drug during the clinical trial. Therefore, many computational methods are proposed for this task. In this paper, we propose a novel method, HIN-DDI
