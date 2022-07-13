@@ -22,7 +22,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: "2021 IEEE International Conference on Big Data (Big Data)"
+publication: "BioKDD 2022"
 featured: true
 date: 2022-07-11T02:33:00.000Z
 url_slides: ""
