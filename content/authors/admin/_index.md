@@ -42,7 +42,7 @@ title: Farhan Tanvir
 email: ""
 ---
 <p>
-I am currently a third-year CS PhD candidate in <a target="_blank" href="https://computerscience.okstate.edu/">Department of Computer Science</a> at <a target="_blank" href="https://go.okstate.edu/">Oklahoma State University.</a> I have the fortune to be advised by <a target="_blank" href="https://www.cs.okstate.edu/~eakbas/">Prof. Esra Akbas.</a> Before coming to OSU, I graduated in 2015 from <a target="_blank" href="https://cse.iutoic-dhaka.edu">Department of Computer Science and Engineering, Islamic University of Technology, Bangladesh</a>.
+I am currently a third-year CS PhD candidate in <a target="_blank" href="https://computerscience.okstate.edu/">Department of Computer Science</a> at <a target="_blank" href="https://go.okstate.edu/">Oklahoma State University.</a> I am advised by <a target="_blank" href="https://arunkumar.okstate.edu">Prof. Arunkumar Bagavathi.</a> Before coming to OSU, I graduated in 2015 from <a target="_blank" href="https://cse.iutoic-dhaka.edu">Department of Computer Science and Engineering, Islamic University of Technology, Bangladesh</a>.
 
 My research mainly focus on graph mining, with their applications in Bioinformatics/Computational Biomedicine.
 
