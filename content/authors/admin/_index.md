@@ -56,6 +56,11 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 <ul>
 
 <li>
+<span style="color:blue">[2022-08-08]</span>
+Attending OSU Dissertation Writing Workshop.
+</li>
+
+<li>
 <span style="color:blue">[2022-07-11]</span>
 One research paper accepted at KDD workshop <a target="_blank" href="https://biokdd.org/biokdd22/">BioKDD 2022</a>.
 </li>
