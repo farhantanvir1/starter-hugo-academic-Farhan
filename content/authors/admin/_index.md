@@ -62,7 +62,7 @@ Reviewer of <a target="_blank" href="https://www.icmla-conference.org/icmla22/">
 
 <li>
 <span style="color:blue">[2022-09-23]</span>
-Awarded as <a target="_blank" href="https://cas.okstate.edu/department_of_computer_science/students/student_awards/awardees.html">Outstanding Graduate Researcher and Graduate Student Leadership award</a> by Department of Computer Science, Oklahoma State Univeristy.
+Awarded <a target="_blank" href="https://cas.okstate.edu/department_of_computer_science/students/student_awards/awardees.html">Outstanding Graduate Researcher and Graduate Student Leadership Awards</a> by Department of Computer Science, Oklahoma State Univeristy.
 </li>
 
 <li>
