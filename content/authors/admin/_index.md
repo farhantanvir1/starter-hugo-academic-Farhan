@@ -56,6 +56,16 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 <ul>
 
 <li>
+<span style="color:blue">[2022-10-08]</span>
+Reviewer of <a target="_blank" href="https://www.icmla-conference.org/icmla22/">ICMLA 2023</a>.
+</li>
+
+<li>
+<span style="color:blue">[2022-09-23]</span>
+Awarded as <a target="_blank" href="https://cas.okstate.edu/department_of_computer_science/students/student_awards/awardees.html">Outstanding Graduate Researcher and Graduate Student Leadership award</a> by Department of Computer Science, Oklahoma State Univeristy.
+</li>
+
+<li>
 <span style="color:blue">[2022-08-08]</span>
 Attending OSU Dissertation Writing Workshop.
 </li>
