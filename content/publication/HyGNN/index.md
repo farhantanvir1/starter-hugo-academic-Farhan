@@ -23,7 +23,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: "BioKDD 2022"
+publication: "ICDE 2023"
 featured: true
 date: 2022-11-09T02:33:00.000Z
 url_slides: ""
