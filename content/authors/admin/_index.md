@@ -46,7 +46,7 @@ I am currently a fourth-year CS PhD candidate in <a target="_blank" href="https
 
 My research mainly focus on graph mining, with their applications in Bioinformatics/Computational Biomedicine.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 </p>
 
