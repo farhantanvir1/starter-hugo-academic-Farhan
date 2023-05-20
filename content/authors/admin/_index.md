@@ -56,6 +56,11 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 <ul>
 
 <li>
+<span style="color:blue">[2023-05-17]</span>
+Passed Dissertation Proposal Exam. Officially a PhD Candidate now.
+</li>
+
+<li>
 <span style="color:blue">[2023-04-20]</span>
 Reviewer of IEEE Transactions on Neural Networks and Learning Systems</a>.
 </li>
