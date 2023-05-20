@@ -156,7 +156,7 @@ Co-ordinator of <a target="_blank" href="http://cs.okstate.edu/reu/about.html">R
 
 <li>
 <span style="color:blue">[2021-04-01]</span>
-Part of judge panel under "Sciene and Engineering" Category for <a target="_blank" href="https://ossef.okstate.edu">Oklahoma State Science and Engineering Fair (OSSEF) 2021</a>.
+Part of judge panel under "Science and Engineering" Category for <a target="_blank" href="https://ossef.okstate.edu">Oklahoma State Science and Engineering Fair (OSSEF) 2021</a>.
 </li>
 
 <li>
@@ -166,7 +166,7 @@ One journal paper accepted at <a target="_blank" href="https://www.frontiersin.o
 
 <li>
 <span style="color:blue">[2020-04-01]</span>
-Part of judge panel under "Sciene and Engineering" Category for <a target="_blank" href="https://ossef.okstate.edu/2020-ossef-winners.html">Oklahoma State Science and Engineering Fair (OSSEF) 2020</a>.
+Part of judge panel under "Science and Engineering" Category for <a target="_blank" href="https://ossef.okstate.edu/2020-ossef-winners.html">Oklahoma State Science and Engineering Fair (OSSEF) 2020</a>.
 </li>
 
 <li>
