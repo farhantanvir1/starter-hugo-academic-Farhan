@@ -57,7 +57,7 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 
 <li>
 <span style="color:blue">[2023-05-17]</span>
-Passed Dissertation Proposal Exam. Officially a PhD Candidate now.
+Passed Dissertation Proposal Exam. Officially a PhD Candidate now!
 </li>
 
 <li>
