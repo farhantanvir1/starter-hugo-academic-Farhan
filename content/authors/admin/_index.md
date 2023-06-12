@@ -56,6 +56,11 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 <ul>
 
 <li>
+<span style="color:blue">[2023-05-28]</span>
+Reviewer of <a target="_blank" href="https://kdd.org/kdd2023/call-for-undergraduate-consortium/">KDD 2023 Undergraduate Consortium</a>.
+</li>
+
+<li>
 <span style="color:blue">[2023-05-17]</span>
 Passed Dissertation Proposal Exam. Officially a PhD Candidate now!
 </li>
@@ -117,7 +122,7 @@ Gave a talk at REU Professional Development Workshop About Graph Representation 
 
 <li>
 <span style="color:blue">[2022-06-16]</span>
-Reviewer of <a target="_blank" href="https://www.kdd.org/kdd2022/cfpUG.html">KDD 2022 Undergraduate Consortium</a>.
+Reviewer of <a target="_blank" href="https://kdd.org/kdd2022/kdd-uc.html">KDD 2022 Undergraduate Consortium</a>.
 </li>
 
 <li>
