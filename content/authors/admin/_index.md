@@ -56,6 +56,11 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 <ul>
 
 <li>
+<span style="color:blue">[2023-06-21]</span>
+One paper got accepted <a target="_blank" href="https://kdd.org/kdd2023/call-for-phd-consortium/">KDD 2023 PhD Consortium</a>.
+</li>
+
+<li>
 <span style="color:blue">[2023-05-28]</span>
 Reviewer of <a target="_blank" href="https://kdd.org/kdd2023/call-for-undergraduate-consortium/">KDD 2023 Undergraduate Consortium</a>.
 </li>
