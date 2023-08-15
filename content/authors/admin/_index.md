@@ -61,7 +61,7 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 </li>
 
 <li>
-<span style="color:blue">[2023-06-21]</span>
+<span style="color:blue">[2023-07-24]</span>
 One paper got accepted at <a target="_blank" href="https://acm-bcb.org">ACM BCB 2023</a>.
 </li>
 
