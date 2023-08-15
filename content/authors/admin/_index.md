@@ -42,7 +42,7 @@ title: Farhan Tanvir
 email: ""
 ---
 <p>
-I am currently a fourth-year CS PhD candidate in <a target="_blank" href="https://computerscience.okstate.edu/">Department of Computer Science</a> at <a target="_blank" href="https://go.okstate.edu/">Oklahoma State University.</a> I am advised by <a target="_blank" href="https://cas.gsu.edu/profile/esra-akbas/">Prof. Esra Akbas</a> and <a target="_blank" href="https://arunkumar.okstate.edu">Prof. Arunkumar Bagavathi.</a> Before coming to OSU, I graduated in 2015 from <a target="_blank" href="https://cse.iutoic-dhaka.edu">Department of Computer Science and Engineering, Islamic University of Technology, Bangladesh</a>.
+I am currently a fifth-year CS PhD candidate in <a target="_blank" href="https://computerscience.okstate.edu/">Department of Computer Science</a> at <a target="_blank" href="https://go.okstate.edu/">Oklahoma State University.</a> Also, I am serving as a Lecturer in the Department of Computer Science at Georgia State University. I am advised by <a target="_blank" href="https://cas.gsu.edu/profile/esra-akbas/">Prof. Esra Akbas</a> and <a target="_blank" href="https://arunkumar.okstate.edu">Prof. Arunkumar Bagavathi.</a> Before coming to OSU, I graduated in 2015 from <a target="_blank" href="https://cse.iutoic-dhaka.edu">Department of Computer Science and Engineering, Islamic University of Technology, Bangladesh</a>.
 
 My research mainly focus on graph mining, with their applications in Bioinformatics/Computational Biomedicine.
 
@@ -56,8 +56,19 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 <ul>
 
 <li>
+<span style="color:blue">[2023-08-01]</span>
+ I have joined Georgia State University in Atlanta, Georgia as a Lecturer in the Department of Computer Science.</a>.
+</li>
+
+<li>
 <span style="color:blue">[2023-06-21]</span>
-One paper got accepted <a target="_blank" href="https://kdd.org/kdd2023/call-for-phd-consortium/">KDD 2023 PhD Consortium</a>.
+One paper got accepted at <a target="_blank" href="https://acm-bcb.org">ACM BCB 2023</a>.
+</li>
+
+
+<li>
+<span style="color:blue">[2023-06-21]</span>
+One paper got accepted at <a target="_blank" href="https://kdd.org/kdd2023/call-for-phd-consortium/">KDD 2023 PhD Consortium</a>.
 </li>
 
 <li>
