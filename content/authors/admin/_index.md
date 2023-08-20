@@ -60,6 +60,11 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 </li>
 
 <li>
+<span style="color:blue">[2023-08-05]</span>
+One paper got accepted at <a target="_blank" href="https://uobevents.eventsair.com/cikm2023/">CIKM 2023</a>.
+</li>
+
+<li>
 <span style="color:blue">[2023-08-01]</span>
  I have joined Georgia State University in Atlanta, Georgia as a Lecturer in the Department of Computer Science.</a>.
 </li>
