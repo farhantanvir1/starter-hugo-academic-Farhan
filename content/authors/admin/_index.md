@@ -56,6 +56,10 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 <ul>
 
 <li>
+<span style="color:blue">[2023-08-24]</span> Serving as a reviewer of <a target="_blank" href="https://genbio-workshop.github.io">NeurIPS2023 Generative AI & Biology Workshop</a>.
+</li>
+
+<li>
 <span style="color:blue">[2023-08-11]</span> Serving as a reviewer of <a target="_blank" href="https://ai4sciencecommunity.github.io/neurips23.html">NeurIPS 2023-AI4Science</a>.
 </li>
 
