@@ -26,8 +26,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Oklahoma State University
-    url: https://go.okstate.edu
+  - name: Georgia State University
+    url: https://www.gsu.edu
 education:
   courses:
     - course: PhD in Computer Science
