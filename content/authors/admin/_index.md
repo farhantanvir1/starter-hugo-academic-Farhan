@@ -79,7 +79,7 @@ One paper got accepted at <a target="_blank" href="https://uobevents.eventsair.c
 
 <li>
 <span style="color:blue">\[2023-08-01]</span>
- I have joined Georgia State University in Atlanta, Georgia as a Lecturer in the Department of Computer Science.</a>.
+ I have joined Georgia State University in Atlanta, Georgia as a Lecturer in the Department of Computer Science</a>.
 </li>
 
 <li>
