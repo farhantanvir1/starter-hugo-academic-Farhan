@@ -46,7 +46,6 @@ I am serving as a Lecturer in the Department of Computer Science at Georgia Stat
 
 My research mainly focus on graph mining, with their applications in Bioinformatics/Computational Biomedicine.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "~/assets/media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
 
 </p>
 
