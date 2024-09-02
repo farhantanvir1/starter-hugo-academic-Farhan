@@ -22,12 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Lecturer
+      company: Georgia State University
+      company_url: 'https://www.gsu.edu'
+      location: Atlanta, GA, USA
+      date_start: '2024-08-01'
+      date_end: ''
+      description: 'Teaching core computer science courses, including Data Strucutures, Discrete Math, and Database Systems.'
+    
   - title: Graduate Research Assistant
     company: Oklahoma State University
     company_url: 'https://go.okstate.edu'
     location: Stillwater, OK, USA
     date_start: '2021-05-15'
-    date_end: ''
+    date_end: '2023-07-31'
     description: 'Planned and executed a project on drug drug interaction prediction (Accepted in IEEE CIBCB 2021). Planned and working on a project on modeling     polypharmacy side effects'
     
     
