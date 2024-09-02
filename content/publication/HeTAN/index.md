@@ -6,7 +6,7 @@ authors:
   - Tanvir Hossain
   - Arunkumar Bagavathi and Esra Akbas
 author_notes: []
-publication_short: "In DSAA 2023"
+publication_short: "In DSAA 2024"
 abstract: ""
 tags: []
 projects: []
