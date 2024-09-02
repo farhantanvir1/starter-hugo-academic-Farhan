@@ -56,6 +56,14 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 <ul>
 
 <li>
+<span style="color:blue">[2024-08-09]</span> One paper got accepted at <a target="_blank" href="https://dsaa2024.dsaa.co">DSAA 2024</a>.
+</li>
+
+<li>
+<span style="color:blue">[2024-06-11]</span> One paper got accepted at <a target="_blank" href="https://www.computer.org/csdl/journal/tb/">IEEE/ACM Transactions on Computational Biology and Bioinformatics</a> journal.
+</li>
+
+<li>
 <span style="color:blue">[2023-11-13]</span> Done with my PhD!!! It has been a long, intense, and hectic journey. I am happy to make it till the end.
 </li>
 
