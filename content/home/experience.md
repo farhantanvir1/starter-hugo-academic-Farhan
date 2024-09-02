@@ -28,7 +28,7 @@ experience:
       location: Atlanta, GA, USA
       date_start: '2024-08-01'
       date_end: ''
-      description: 'Teaching core computer science courses, including Data Strucutures, Discrete Math, and Database Systems.'
+      description: 'Teaching core computer science courses, including Data Strucutures, Discrete Math and Database Systems.'
     
   - title: Graduate Research Assistant
     company: Oklahoma State University
