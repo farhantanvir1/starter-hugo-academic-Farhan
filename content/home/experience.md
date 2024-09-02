@@ -24,12 +24,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Lecturer
-      company: Georgia State University
-      company_url: 'https://www.gsu.edu'
-      location: Atlanta, GA, USA
-      date_start: '2024-08-01'
-      date_end: ''
-      description: 'Teaching core computer science courses, including Data Strucutures, Discrete Math and Database Systems.'
+    company: Georgia State University
+    company_url: 'https://www.gsu.edu'
+    location: Atlanta, GA, USA
+    date_start: '2024-08-01'
+    date_end: ''
+    description: 'Teaching core computer science courses, including Data Strucutures, Discrete Math and Database Systems.'
     
   - title: Graduate Research Assistant
     company: Oklahoma State University
