@@ -1,5 +1,5 @@
 ---
-role: CS PhD Candidate
+role: Lecturer
 avatar_filename: avatar.jpg
 bio: My research interests include Graph Mining, Graph Neural Networks,
   Computational Biomedicine and Bioinformatics.
@@ -26,12 +26,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Oklahoma State University
-    url: https://go.okstate.edu
+  - name: Georgia State University
+    url: https://www.gsu.edu
 education:
   courses:
     - course: PhD in Computer Science
-      institution: Oklahoma State University (Expected Completion Date - 2024)
+      institution: Oklahoma State University
       year: ""
     - course: B.Sc. in Computer Science and Engineering
       institution: Islamic University of Technology
@@ -42,11 +42,11 @@ title: Farhan Tanvir
 email: ""
 ---
 <p>
-I am currently a fourth-year CS PhD candidate in <a target="_blank" href="https://computerscience.okstate.edu/">Department of Computer Science</a> at <a target="_blank" href="https://go.okstate.edu/">Oklahoma State University.</a> I am advised by <a target="_blank" href="https://arunkumar.okstate.edu">Prof. Arunkumar Bagavathi.</a> Before coming to OSU, I graduated in 2015 from <a target="_blank" href="https://cse.iutoic-dhaka.edu">Department of Computer Science and Engineering, Islamic University of Technology, Bangladesh</a>.
+I am serving as a Lecturer in the Department of Computer Science at Georgia State University. I have completed PhD in CS from <a target="_blank" href="https://computerscience.okstate.edu/">Department of Computer Science</a> at <a target="_blank" href="https://go.okstate.edu/">Oklahoma State University.</a> I was advised by <a target="_blank" href="https://cas.gsu.edu/profile/esra-akbas/">Prof. Esra Akbas</a> and <a target="_blank" href="https://arunkumar.okstate.edu">Prof. Arunkumar Bagavathi.</a> Before coming to OSU, I graduated in 2015 from <a target="_blank" href="https://cse.iutoic-dhaka.edu">Department of Computer Science and Engineering, Islamic University of Technology, Bangladesh</a>.
 
 My research mainly focus on graph mining, with their applications in Bioinformatics/Computational Biomedicine.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "~/assets/media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
 
 </p>
 
@@ -54,6 +54,71 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 
 <p>
 <ul>
+
+<li>
+<span style="color:blue">[2024-08-09]</span> One paper got accepted at <a target="_blank" href="https://dsaa2024.dsaa.co">DSAA 2024</a>.
+</li>
+
+<li>
+<span style="color:blue">[2024-06-11]</span> One paper got accepted at <a target="_blank" href="https://www.computer.org/csdl/journal/tb/">IEEE/ACM Transactions on Computational Biology and Bioinformatics</a> journal.
+</li>
+
+<li>
+<span style="color:blue">[2023-11-13]</span> Done with my PhD!!! It has been a long, intense, and hectic journey. I am happy to make it till the end.
+</li>
+
+<li>
+<span style="color:blue">[2023-10-24]</span>
+Reviewer of IEEE Journal of Biomedical and Health Informatics</a>.
+</li>
+
+<li>
+<span style="color:blue">[2023-08-24]</span> Serving as a reviewer of <a target="_blank" href="https://genbio-workshop.github.io">NeurIPS2023 Generative AI & Biology Workshop</a>.
+</li>
+
+<li>
+<span style="color:blue">[2023-08-11]</span> Serving as a reviewer of <a target="_blank" href="https://ai4sciencecommunity.github.io/neurips23.html">NeurIPS 2023-AI4Science</a>.
+</li>
+
+<li>
+<span style="color:blue">[2023-08-05]</span>
+One paper got accepted at <a target="_blank" href="https://uobevents.eventsair.com/cikm2023/">CIKM 2023</a>.
+</li>
+
+<li>
+<span style="color:blue">[2023-08-01]</span>
+ I have joined Georgia State University in Atlanta, Georgia as a Lecturer in the Department of Computer Science</a>.
+</li>
+
+<li>
+<span style="color:blue">[2023-07-24]</span>
+One paper got accepted at <a target="_blank" href="https://acm-bcb.org">ACM BCB 2023</a>.
+</li>
+
+<li>
+<span style="color:blue">[2023-06-21]</span>
+One paper got accepted at <a target="_blank" href="https://kdd.org/kdd2023/call-for-phd-consortium/">KDD 2023 PhD Consortium</a>.
+</li>
+
+<li>
+<span style="color:blue">[2023-05-28]</span>
+Reviewer of <a target="_blank" href="https://kdd.org/kdd2023/call-for-undergraduate-consortium/">KDD 2023 Undergraduate Consortium</a>.
+</li>
+
+<li>
+<span style="color:blue">[2023-05-17]</span>
+Passed Dissertation Proposal Exam. Officially a PhD Candidate now!
+</li>
+
+<li>
+<span style="color:blue">[2023-04-20]</span>
+Reviewer of IEEE Transactions on Neural Networks and Learning Systems</a>.
+</li>
+
+<li>
+<span style="color:blue">[2023-01-03]</span>
+Sub-reviewer of <a target="_blank" href="https://pakdd2023.org">PAKDD 2023</a>.
+</li>
 
 <li>
 <span style="color:blue">[2022-11-09]</span>
@@ -102,7 +167,7 @@ Gave a talk at REU Professional Development Workshop About Graph Representation 
 
 <li>
 <span style="color:blue">[2022-06-16]</span>
-Reviewer of <a target="_blank" href="https://www.kdd.org/kdd2022/cfpUG.html">KDD 2022 Undergraduate Consortium</a>.
+Reviewer of <a target="_blank" href="https://kdd.org/kdd2022/kdd-uc.html">KDD 2022 Undergraduate Consortium</a>.
 </li>
 
 <li>
@@ -141,7 +206,7 @@ Co-ordinator of <a target="_blank" href="http://cs.okstate.edu/reu/about.html">R
 
 <li>
 <span style="color:blue">[2021-04-01]</span>
-Part of judge panel under "Sciene and Engineering" Category for <a target="_blank" href="https://ossef.okstate.edu">Oklahoma State Science and Engineering Fair (OSSEF) 2021</a>.
+Part of judge panel under "Science and Engineering" Category for <a target="_blank" href="https://ossef.okstate.edu">Oklahoma State Science and Engineering Fair (OSSEF) 2021</a>.
 </li>
 
 <li>
@@ -151,7 +216,7 @@ One journal paper accepted at <a target="_blank" href="https://www.frontiersin.o
 
 <li>
 <span style="color:blue">[2020-04-01]</span>
-Part of judge panel under "Sciene and Engineering" Category for <a target="_blank" href="https://ossef.okstate.edu/2020-ossef-winners.html">Oklahoma State Science and Engineering Fair (OSSEF) 2020</a>.
+Part of judge panel under "Science and Engineering" Category for <a target="_blank" href="https://ossef.okstate.edu/2020-ossef-winners.html">Oklahoma State Science and Engineering Fair (OSSEF) 2020</a>.
 </li>
 
 <li>
