@@ -42,7 +42,7 @@ title: Farhan Tanvir
 email: ""
 ---
 <p>
-I am serving as a Lecturer in the Department of Computer Science at Georgia State University. I have completed PhD in CS from <a target="_blank" href="https://computerscience.okstate.edu/">Department of Computer Science</a> at <a target="_blank" href="https://go.okstate.edu/">Oklahoma State University.</a> I was advised by <a target="_blank" href="https://cas.gsu.edu/profile/esra-akbas/">Prof. Esra Akbas</a> and <a target="_blank" href="https://arunkumar.okstate.edu">Prof. Arunkumar Bagavathi.</a> Before coming to OSU, I graduated in 2015 from <a target="_blank" href="https://cse.iutoic-dhaka.edu">Department of Computer Science and Engineering, Islamic University of Technology, Bangladesh</a>.
+I am serving as a Lecturer in the Department of Computer Science at Georgia State University. I have completed PhD in CS from <a target="_blank" href="https://computerscience.okstate.edu/">Department of Computer Science</a> at <a target="_blank" href="https://go.okstate.edu/">Oklahoma State University.</a> I had the pleasure to be advised by <a target="_blank" href="https://cas.gsu.edu/profile/esra-akbas/">Prof. Esra Akbas</a> and <a target="_blank" href="https://arunkumar.okstate.edu">Prof. Arunkumar Bagavathi.</a> Before coming to OSU, I graduated in 2015 from <a target="_blank" href="https://cse.iutoic-dhaka.edu">Department of Computer Science and Engineering, Islamic University of Technology, Bangladesh</a>.
 
 My research mainly focus on graph mining, with their applications in Bioinformatics/Computational Biomedicine.
 
@@ -60,6 +60,10 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 
 <li>
 <span style="color:blue">[2024-06-11]</span> One paper got accepted at <a target="_blank" href="https://www.computer.org/csdl/journal/tb/">IEEE/ACM Transactions on Computational Biology and Bioinformatics</a> journal.
+</li>
+
+<li>
+<span style="color:blue">[2024-05-26]</span> Started working as a mentor for <a target="_blank" href="https://sites.google.com/view/reu-gda-gsu/home?authuser=0">REU</a>.
 </li>
 
 <li>
