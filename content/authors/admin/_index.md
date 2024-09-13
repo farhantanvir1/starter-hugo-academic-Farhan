@@ -71,19 +71,6 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 </li>
 
 <li>
-<span style="color:blue">[2023-10-24]</span>
-Reviewer of IEEE Journal of Biomedical and Health Informatics</a>.
-</li>
-
-<li>
-<span style="color:blue">[2023-08-24]</span> Serving as a reviewer of <a target="_blank" href="https://genbio-workshop.github.io">NeurIPS2023 Generative AI & Biology Workshop</a>.
-</li>
-
-<li>
-<span style="color:blue">[2023-08-11]</span> Serving as a reviewer of <a target="_blank" href="https://ai4sciencecommunity.github.io/neurips23.html">NeurIPS 2023-AI4Science</a>.
-</li>
-
-<li>
 <span style="color:blue">[2023-08-05]</span>
 One paper got accepted at <a target="_blank" href="https://uobevents.eventsair.com/cikm2023/">CIKM 2023</a>.
 </li>
@@ -104,23 +91,8 @@ One paper got accepted at <a target="_blank" href="https://kdd.org/kdd2023/call-
 </li>
 
 <li>
-<span style="color:blue">[2023-05-28]</span>
-Reviewer of <a target="_blank" href="https://kdd.org/kdd2023/call-for-undergraduate-consortium/">KDD 2023 Undergraduate Consortium</a>.
-</li>
-
-<li>
 <span style="color:blue">[2023-05-17]</span>
 Passed Dissertation Proposal Exam. Officially a PhD Candidate now!
-</li>
-
-<li>
-<span style="color:blue">[2023-04-20]</span>
-Reviewer of IEEE Transactions on Neural Networks and Learning Systems</a>.
-</li>
-
-<li>
-<span style="color:blue">[2023-01-03]</span>
-Sub-reviewer of <a target="_blank" href="https://pakdd2023.org">PAKDD 2023</a>.
 </li>
 
 <li>
@@ -139,23 +111,8 @@ Awarded <a target="_blank" href="https://cas.okstate.edu/department_of_computer_
 </li>
 
 <li>
-<span style="color:blue">[2022-08-08]</span>
-Attending OSU Dissertation Writing Workshop.
-</li>
-
-<li>
 <span style="color:blue">[2022-07-11]</span>
 One research paper accepted at KDD workshop <a target="_blank" href="https://biokdd.org/biokdd22/">BioKDD 2022</a>.
-</li>
-
-<li>
-<span style="color:blue">[2022-07-04]</span>
-Sub-reviewer of ISMIS 2022.
-</li>
-
-<li>
-<span style="color:blue">[2022-07-02]</span>
-Sub-reviewer of <a target="_blank" href="https://complexnetworks.org">Complex Networks 2022</a>.
 </li>
 
 <li>
@@ -169,11 +126,6 @@ Gave a talk at REU Professional Development Workshop About Graph Representation 
 </li>
 
 <li>
-<span style="color:blue">[2022-06-16]</span>
-Reviewer of <a target="_blank" href="https://kdd.org/kdd2022/kdd-uc.html">KDD 2022 Undergraduate Consortium</a>.
-</li>
-
-<li>
 <span style="color:blue">[2022-06-01]</span>
 Co-ordinator of <a target="_blank" href="http://cs.okstate.edu/reu/about.html">REU Site: Big Data Analytics at Oklahoma State University</a>.
 </li>
@@ -182,10 +134,7 @@ Co-ordinator of <a target="_blank" href="http://cs.okstate.edu/reu/about.html">R
 <span style="color:blue">[2021-11-14]</span>
 One Paper Accepted at <a target="_blank" href="https://bigdatareu.umbc.edu/reu-symposium/">IEEE International Conference on Big Data</a>.
 </li>
-<li>
-<span style="color:blue">[2021-09-16]</span>
-Sub-reviewer of <a target="_blank" href="https://complexnetworks.org">Complex Networks 2021</a>.
-</li>
+
 
 <li>
 <span style="color:blue">[2021-08-30]</span>
@@ -208,18 +157,8 @@ Co-ordinator of <a target="_blank" href="http://cs.okstate.edu/reu/about.html">R
 </li>
 
 <li>
-<span style="color:blue">[2021-04-01]</span>
-Part of judge panel under "Science and Engineering" Category for <a target="_blank" href="https://ossef.okstate.edu">Oklahoma State Science and Engineering Fair (OSSEF) 2021</a>.
-</li>
-
-<li>
 <span style="color:blue">[2020-12-07]</span>
 One journal paper accepted at <a target="_blank" href="https://www.frontiersin.org/journals/big-data">Frontiers in Big Data</a>.
-</li>
-
-<li>
-<span style="color:blue">[2020-04-01]</span>
-Part of judge panel under "Science and Engineering" Category for <a target="_blank" href="https://ossef.okstate.edu/2020-ossef-winners.html">Oklahoma State Science and Engineering Fair (OSSEF) 2020</a>.
 </li>
 
 <li>
