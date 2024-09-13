@@ -101,11 +101,6 @@ One research paper got accepted at <a target="_blank" href="https://icde2023.ics
 </li>
 
 <li>
-<span style="color:blue">[2022-10-08]</span>
-Reviewer of <a target="_blank" href="https://www.icmla-conference.org/icmla22/">ICMLA 2023</a>.
-</li>
-
-<li>
 <span style="color:blue">[2022-09-23]</span>
 Awarded <a target="_blank" href="https://cas.okstate.edu/department_of_computer_science/students/student_awards/awardees.html">Outstanding Graduate Researcher and Graduate Student Leadership Awards</a> by Department of Computer Science, Oklahoma State Univeristy.
 </li>
