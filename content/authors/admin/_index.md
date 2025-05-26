@@ -85,7 +85,7 @@ One paper got accepted at <a target="_blank" href="https://acm-bcb.org">ACM BCB 
 </li>
 
 <li>
-<span style="color:blue">\\[2023-06-21]</span>
+<span style="color:blue">2023-06-21</span>
 One paper got accepted at <a target="_blank" href="https://kdd.org/kdd2023/call-for-phd-consortium/">KDD 2023 PhD Consortium</a>.
 </li>
 
