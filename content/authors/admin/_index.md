@@ -75,12 +75,12 @@ One paper got accepted at <a target="_blank" href="https://uobevents.eventsair.c
 </li>
 
 <li>
-<span style="color:blue">\\[2023-08-01]</span>
+<span style="color:blue">2023-08-01</span>
  I have joined Georgia State University in Atlanta, Georgia as a Lecturer in the Department of Computer Science</a>.
 </li>
 
 <li>
-<span style="color:blue">\\[2023-07-24]</span>
+<span style="color:blue">2023-07-24</span>
 One paper got accepted at <a target="_blank" href="https://acm-bcb.org">ACM BCB 2023</a>.
 </li>
 
@@ -135,7 +135,7 @@ Passed Comprehensive Exam of PhD.
 </li>
 
 <li>
-<span style="color:blue">\\[2021-07-15]</span>
+<span style="color:blue">2021-07-15</span>
 One Paper Accepted at <a target="_blank" href="https://federation.edu.au/cibcb2021">IEEE CIBCB 2021</a>.
 </li>
 
