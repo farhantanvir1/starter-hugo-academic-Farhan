@@ -90,7 +90,7 @@ One paper got accepted at <a target="_blank" href="https://kdd.org/kdd2023/call-
 </li>
 
 <li>
-<span style="color:blue">\[2023-05-17]</span>
+<span style="color:blue">\\[2023-05-17]</span>
 Passed Dissertation Proposal Exam. Officially a PhD Candidate now!
 </li>
 
@@ -105,7 +105,7 @@ Awarded <a target="_blank" href="https://cas.okstate.edu/department_of_computer_
 </li>
 
 <li>
-<span style="color:blue">\[2022-07-11]</span>
+<span style="color:blue">\\[2022-07-11]</span>
 One research paper accepted at KDD workshop <a target="_blank" href="https://biokdd.org/biokdd22/">BioKDD 2022</a>.
 </li>
 
