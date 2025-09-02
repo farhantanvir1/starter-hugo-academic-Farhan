@@ -1,4 +1,5 @@
 ---
+title: Farhan Tanvir
 role: Lecturer
 avatar_filename: avatar.jpeg
 bio: My research interests include Graph Mining, Graph Neural Networks,
@@ -36,10 +37,9 @@ education:
     - course: B.Sc. in Computer Science and Engineering
       institution: Islamic University of Technology
       year: 2015
+email: ""
 superuser: true
 highlight_name: true
-title: Farhan Tanvir
-email: ""
 ---
 <p>
 I am serving as a Lecturer in the Department of Computer Science at Georgia State University. I have completed PhD in CS from <a target="_blank" href="https://computerscience.okstate.edu/">Department of Computer Science</a> at <a target="_blank" href="https://go.okstate.edu/">Oklahoma State University.</a> I had the pleasure to be advised by <a target="_blank" href="https://cas.gsu.edu/profile/esra-akbas/">Prof. Esra Akbas</a>. Before coming to OSU, I graduated in 2015 from <a target="_blank" href="https://cse.iutoic-dhaka.edu">Department of Computer Science and Engineering, Islamic University of Technology, Bangladesh</a>.
@@ -53,8 +53,14 @@ My research mainly focus on graph mining, with their applications in Bioinformat
 <p>
 <ul>
 
+
+
 <li>
-<span style="color:blue">2024-08-09</span> One paper got accepted at <a target="_blank" href="https://dsaa2024.dsaa.co">DSAA 2024</a>.
+<span style="color:blue">2025-08-27</span> One paper got accepted at <a target="_blank" href="https://acm-bcb.org">ACM BCB 2025</a>.
+</li>
+
+<li>
+<span style="color:blue">2024-08-09</span> One paper got accepted at <a target="_blank" href="https://dsaa2024.dsaa.com">DSAA 2024</a>.
 </li>
 
 <li>
