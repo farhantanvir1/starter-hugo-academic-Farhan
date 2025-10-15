@@ -20,7 +20,10 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-summary: "We propose a novel Heterogeneous Graph Triplet Attention Network (HeTAN). HeTAN leverages the power of heterogeneous graphs, representing diverse entities and their interactions, and employs a novel triplet attention mechanism to capture higher-order interactions within the drug-target-disease triplets. We capture higher-order interactions between drug, target, and disease through a triplet-wise attention mechanism. This gives us a more comprehensive understanding of drug MoAs and can accelerate drug repurposing for personalized medicine. While it is defined for drugs, targets, and diseases triplets, it is a generic model that can be applied to other triplets."
+summary: "We propose MCL-DMD (Multi-modal Contrastive Learning for Drug-Microbe-Disease Association Prediction), a novel framework that combines heterogeneous graph modeling with domain-specific biomedical knowledge. MCL-DMD employs HeTAN (Heterogeneous
+Triple Attention Network) to model the interconnectedness of all entities in a heterogeneous graph and augments it with a biomedical knowledge encoder that leverages SMILES representations, microbial taxonomies, and MeSH disease descriptors. Through multi-modal contrastive learning, MCL-DMD aligns cross-modal representations to improve semantic consistency and predictive robustness. Experimental results demonstrate that MCL-DMD significantly
+outperforms state-of-the-art baselines in both classification and ranking metrics, offering a powerful framework to uncover novel
+drug–microbe–disease associations."
 url_dataset: ""
 url_project: ""
 url_source: ""
